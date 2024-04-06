@@ -2,6 +2,8 @@
 
 Welcome to my personal GitHub repository! This repository serves as a central hub for my personal projects, experiments, and learning endeavors.
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/hXPN8Qo4Upafoqn8Cr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/siliconvalleyhbo-hXPN8Qo4Upafoqn8Cr">via GIPHY</a></p>
+
 ## Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)

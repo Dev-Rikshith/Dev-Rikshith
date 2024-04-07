@@ -28,4 +28,4 @@ I am a dedicated software developer passionate about application programming, cr
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to connect! You can contact me via email, LinkedIn, or Twitter.
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/tirumanpuri-rikshith/)
+- LinkedIn: [https://www.linkedin.com/in/tirumanpuri-rikshith/]

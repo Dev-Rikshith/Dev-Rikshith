@@ -1,4 +1,4 @@
-# Hey 👋, I am Rikshith Tirumanpuri (he/him). I am a Developer, Designer.
+# Hey 👋, I am Rikshith (he/him). I am a Developer, Designer.
 
 Welcome to my personal GitHub repository! This repository serves as a central hub for my personal projects, experiments, and learning endeavors.
 

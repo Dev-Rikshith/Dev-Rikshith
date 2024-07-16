@@ -22,6 +22,8 @@ Driven by a curiosity for learning and a dedication to excellence, I’m always 
 
 Feel free to reach out if you’re interested in discussing machine learning strategies or exploring new projects! 📩🤝
 
+## Experience
+
 ## Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

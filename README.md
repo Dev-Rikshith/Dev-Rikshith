@@ -14,7 +14,7 @@ Welcome to my personal GitHub repository! This repository serves as a central hu
 
 ## About Me
 
-I’m a passionate Machine Learning Engineer 🤖✨ with a focus on developing cutting-edge algorithms and data-driven solutions. My work revolves around transforming raw data into actionable insights through advanced machine-learning techniques. 📊🔍
+I’m a passionate Backend and Machine Learning Engineer 🤖✨ with a focus on developing cutting-edge algorithms and data-driven solutions. My work revolves around transforming raw data into actionable insights through advanced machine-learning techniques. 📊🔍
 
 With expertise in supervised and unsupervised learning, feature engineering, and model deployment, I work with tools and technologies like Python 🐍, TensorFlow ⚛️, and AWS ☁️ to build and refine predictive models. I thrive on solving complex problems and am committed to staying at the forefront of industry advancements. 🚀🔧
 

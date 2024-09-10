@@ -1,4 +1,4 @@
-# Hey 👋, I am Rikshith (he/him). I am a Machine Learning Engineer.
+# Hey 👋, I am Rikshith (he/him). I am a Software Engineer.
 
 Welcome to my personal GitHub repository! This repository serves as a central hub for my personal projects, experiments, and learning endeavors.
 
@@ -14,26 +14,11 @@ Welcome to my personal GitHub repository! This repository serves as a central hu
 
 ## About Me
 
-I’m a passionate Backend and Machine Learning Engineer 🤖✨ with a focus on developing cutting-edge algorithms and data-driven solutions. My work revolves around transforming raw data into actionable insights through advanced machine-learning techniques. 📊🔍
+I’m a dedicated Software Engineer 🖥️⚙️ with a passion for building scalable and efficient applications that solve real-world problems. My expertise spans Java ☕, JavaScript 💻, and Python 🐍, enabling me to create robust back-end systems and seamless front-end experiences.
 
-With expertise in supervised and unsupervised learning, feature engineering, and model deployment, I work with tools and technologies like Python 🐍, TensorFlow ⚛️, and AWS ☁️ to build and refine predictive models. I thrive on solving complex problems and am committed to staying at the forefront of industry advancements. 🚀🔧
+Whether it's architecting APIs, developing microservices, or enhancing application performance, I thrive on tackling complex technical challenges. I leverage modern frameworks, tools, and cloud technologies like AWS ☁️ to deliver high-quality software solutions that meet business needs and exceed user expectations.
 
-Driven by a curiosity for learning and a dedication to excellence, I’m always eager to engage in challenging projects that push the boundaries of what’s possible in machine learning. 🌟🧠
-
-Feel free to reach out if you’re interested in discussing machine learning strategies or exploring new projects! 📩🤝
-
-## Experience
-
-## Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
+Constantly learning and growing, I desire to innovate and stay updated on the latest industry trends. 🚀🔧 If you want to collaborate on software projects or explore new tech-driven initiatives, let’s connect! 📩🤝
 
 ## Contact
 

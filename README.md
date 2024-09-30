@@ -2,8 +2,6 @@
 
 Welcome to my personal GitHub repository! This repository serves as a central hub for my personal projects, experiments, and learning endeavors.
 
-![GIF](https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif)
-
 
 ## Table of Contents
 - [About Me](#about-me)
